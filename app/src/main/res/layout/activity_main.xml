@@ -8,8 +8,8 @@
     tools:context="io.zero1.helloworld.MainActivity">
 
 <TextView
+    android:id="@+id/tv"
     android:text="Hello World"
-    android:gravity="center"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
 
