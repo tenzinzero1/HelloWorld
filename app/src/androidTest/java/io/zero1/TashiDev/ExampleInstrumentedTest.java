@@ -1,4 +1,4 @@
-package io.zero1.helloworld;
+package io.zero1.TashiDev;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
